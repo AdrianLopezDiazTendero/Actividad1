@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Jugador
+  - PuertaRoja
+  - PuertaAmarilla
+  - PuertaAzul
+  - BotonPuerta
+  - ActivadorTrampa
   layers:
   - Default
   - TransparentFX
